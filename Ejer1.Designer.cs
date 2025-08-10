@@ -1,6 +1,6 @@
 ﻿namespace Ejercicios_Formularios
 {
-    partial class Ejercicio1
+    partial class Ejer1
     {
         /// <summary>
         /// Required designer variable.
@@ -62,7 +62,7 @@
             btnSaludar.UseVisualStyleBackColor = true;
             btnSaludar.Click += btnSaludar_Click;
             // 
-            // Ejercicio1
+            // Ejer1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -70,7 +70,7 @@
             Controls.Add(btnSaludar);
             Controls.Add(label1);
             Controls.Add(btnBack);
-            Name = "Ejercicio1";
+            Name = "Ejer1";
             Text = "Ejercicio1";
             ResumeLayout(false);
             PerformLayout();

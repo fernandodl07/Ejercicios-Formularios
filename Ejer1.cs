@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ejercicios_Formularios
 {
-    public partial class Ejercicio1 : Form
+    public partial class Ejer1 : Form
     {
-        public Ejercicio1()
+        public Ejer1()
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;

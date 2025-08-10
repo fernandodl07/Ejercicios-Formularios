@@ -10,7 +10,7 @@ namespace Ejercicios_Formularios
 
         private void btnEje1_Click(object sender, EventArgs e)
         {
-            Ejercicio1 ejer1 = new Ejercicio1();
+            Ejer1 ejer1 = new Ejer1();
             ejer1.Show();
             this.Hide();
         }
